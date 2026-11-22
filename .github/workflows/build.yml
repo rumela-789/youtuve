@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Extract NativeTube project
-        run: unzip -q NativeTube_v5_7.zip
+        run: unzip -q NativeTube_v5_8.zip
 
       - name: Setup Java
         uses: actions/setup-java@v4
